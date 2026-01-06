@@ -22,4 +22,13 @@ The dataset contains retail transaction data including order details, product ca
 ## Conclusion
 The analysis shows that focusing solely on order volume may overlook more profitable opportunities. Strategic emphasis on high-margin sub-categories and regional product mix optimization can improve overall profitability.
 
+##  Tableau Dashboard – Superstore Profitability
 
+This dashboard visualizes profit and sales performance across product sub-categories.
+**Key insights:**
+- Profitability varies significantly by sub-category
+- High sales volume does not always translate into high profit
+- Certain sub-categories generate consistent losses
+
+ **Dashboard (PDF):**  
+[Download Superstore Profitability Dashboard](./Superstore%20Profitability%20Dashboard.pdf)
